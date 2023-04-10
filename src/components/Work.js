@@ -24,7 +24,7 @@ const Work = () => {
                 Project Work.
               </h2>
               <p className='max-w-sm mb-16'>
-              My latest project work is Currency Converter. This is a software application that allows users to convert one currency to another. It is designed to be user-friendly and provides accurate conversion rates in real-time with minimum and maximum values. To build a currency converter project, you will need to obtain up-to-date currency exchange rates from a reliable source, such as an API provider. I used that. Overall, a currency converter project can be a useful tool for individuals and businesses who need to exchange currencies. It can also be a great way to learn programming concepts such as APIs, data parsing, and user interface design.
+              My latest project is the Currency Converter. This is a software application that allows users to convert one currency to another. I used some APIs in this project to get updated currency rates. Overall, a currency converter project can be a useful tool for individuals and businesses who need to exchange currencies. It can also be a great way to learn programming concepts such as APIs, data parsing, and user interface design.
               </p>
               <a href='https://github.com/Priyanka9120?tab=repositories' target='_blank' rel='noreferrer'>
               <button className='btn btn-sm'>View all projects</button>
